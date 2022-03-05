@@ -132,7 +132,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Pinky is working! smoothly')
+            chalk.green.bold('✅ queenamda is working! smoothly')
         );
         await conn.sendMessage(
             conn.user.jid,
